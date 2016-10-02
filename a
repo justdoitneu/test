@@ -1,0 +1,40 @@
+[33mcommit be5180d9d7047fa582486ca3c54ed963f49ed535[m
+Merge: 5f3d486 9be8a8a
+Author: justdoitneu <dqzdhzlq@163.com>
+Date:   Sun Oct 2 19:43:45 2016 +0800
+
+    合并冲突到2
+    Merge branch 'master' of https://github.com/justdoitneu/test
+    
+    Conflicts:
+    	日记
+
+[33mcommit 5f3d486be72d7f4bad0c3ce21e2de996d42a7558[m
+Author: justdoitneu <dqzdhzlq@163.com>
+Date:   Sun Oct 2 19:31:14 2016 +0800
+
+    第二个人地修改
+
+[33mcommit 9be8a8a62d3b41b2506c42af7aa0774c192b9ca6[m
+Author: justdoitneu <dqzdhzlq@163.com>
+Date:   Sun Oct 2 19:18:55 2016 +0800
+
+    第一个人提交的修改
+
+[33mcommit 83d2b4e626f1270dcd03561fce8a2530d1581a1d[m
+Author: justdoitneu <dqzdhzlq@163.com>
+Date:   Sun Oct 2 17:12:41 2016 +0800
+
+    更改readme
+
+[33mcommit fda61d22b611de3c47b5513ec7c13d0c9b9569c3[m
+Author: justdoitneu <dqzdhzlq@163.com>
+Date:   Sun Oct 2 17:03:59 2016 +0800
+
+    我新增了一个日记文件
+
+[33mcommit b4683f067aacb0fa3f17eb2236449ebdd0871967[m
+Author: justdoitneu <dqzdhzlq@163.com>
+Date:   Sun Oct 2 16:40:44 2016 +0800
+
+    Initial commit
